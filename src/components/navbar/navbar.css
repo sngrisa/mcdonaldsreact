@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+    color: aliceblue;
+}
+
+.logo {
+    width: 42px;
+}
+
+.navbar-item {
+    color: aliceblue;
+    background-color: black;
+}
+
+.bi-navbar {
+    margin-right: 4%;
+}
+
+#navbarBasicExample {
+    background-color: black;
+}

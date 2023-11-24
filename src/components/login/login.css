@@ -1,0 +1,13 @@
+.remember {
+    margin-right: 4% !important;
+}
+
+.background-users {
+    background-image: url("./../../assets/windows7.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login {
+    margin-bottom: 5%;
+}

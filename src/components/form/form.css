@@ -1,0 +1,31 @@
+form {
+    margin-top: 2% !important;
+}
+
+input {
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+}
+
+.back {
+    margin-top: 2%;
+}
+
+.register {
+    margin-bottom: 5%;
+}
+
+.background-users {
+    background-image: url("./../../assets/windows7.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+}

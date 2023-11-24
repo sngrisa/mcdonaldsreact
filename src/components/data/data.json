@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "name": "¡Probá la Pileta de Cheddar, che!",
+        "desc": "Pedí la nueva Pileta de Cheddar de McDonald's para enchufarle mucho, muchísimo cheddar a tus papitas, McNuggets y hamburguesa.",
+        "img": "./src/assets/slide1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "¡McCrispy Chicken con 100% pechuga de pollo!",
+        "desc": "Probá la McCrispy Chicken en sus versiones Classic, Deluxe y Cheddar & Bacon.",
+        "img": "./src/assets/slide6.jpg"
+    },
+    {
+        "id": 3,
+        "name": "McDonald's llegó a Roblox",
+        "desc": "¡Encontrá un nuevo mundo de diversión en McDonald’s Land!",
+        "img": "./src/assets/slide4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "UN GRAN DIA PUEDE CAMBIAR LA HISTORIA",
+        "desc": "¡Sumate a la preventa!",
+        "img": "./src/assets/slide3.jpg"
+    }
+]
